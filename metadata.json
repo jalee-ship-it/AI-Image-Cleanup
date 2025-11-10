@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Cleanup-fin",
+  "description": "An application that allows users to upload an image and use text prompts to remove scratches, dust, and other imperfections using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
